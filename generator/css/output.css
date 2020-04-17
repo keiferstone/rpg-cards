@@ -3,6 +3,7 @@
 }
 
 body {
+  -webkit-print-color-adjust: exact !important;
   margin: 0;
   padding: 0;
 }
